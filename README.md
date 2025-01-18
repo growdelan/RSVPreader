@@ -3,7 +3,9 @@
 ## Opis
 RSVPreader to aplikacja umożliwiająca szybkie czytanie książek w formacie EPUB za pomocą metody RSVP. Program wyświetla pojedyncze słowa z ustaloną prędkością, co ułatwia skupienie się na czytanym tekście i eliminuje potrzebę „czytania słów w głowie”.
 
-<img src="img/img1.png" alt="alt text" style="width:200px; height:200;">
+<div align="center">
+  <img src="img/img1.png" alt="alt text" width="250" height="250">
+</div>
 
 ## Instalacja
 
